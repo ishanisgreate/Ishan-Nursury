@@ -1,0 +1,39 @@
+* {
+    font-family: "Calibri";
+    padding-right: 2px;
+}
+
+.ishan__nursery {
+    font-size: xx-large;
+    background-color: rgb(238, 78, 78);
+    width: 1560px;
+    height: 100px;
+    border: 2px solid black;
+}
+
+.ishan__nursery:hover {
+    background-color: blue;
+}
+
+.about__us {
+    background-color: rgb(9, 139, 226);
+    width: 200px;
+}
+
+.about__us:hover{
+    background-color: cyan;
+}
+
+.basic-img{
+    width: 1560px;
+    height: 150px;
+}
+
+.button_plant {
+    background-color: rgb(0, 119, 255);
+    width: 200px;
+}
+
+.button_plant:hover{
+    background-color: cyan;
+}
